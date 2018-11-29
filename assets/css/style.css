@@ -349,7 +349,7 @@ h4,
 h5,
 h6 {
   color: #fff;
-  font-family: 'Droid Serif',Georgia,serif;
+  font-family: "Courier New", Courier, monospace;
   font-weight: bold;
   line-height: 1.2;
   text-rendering: optimizeLegibility;
@@ -673,7 +673,7 @@ video {
 
 .site-title {
   color: #30a78d;
-  font-family: 'Droid Serif',Georgia,serif;
+  font-family: "Courier New", Courier, monospace;
   font-size: 1.66667em;
   font-weight: bold;
   line-height: 1.2;
@@ -706,7 +706,7 @@ video {
 .main-navigation a {
   color: #9ba6ad;
   display: inline-block;
-  font-size: 0.88889em;
+  font-size: 1.2em;
   font-weight: bold;
   padding: 5px 0;
   text-decoration: none;
@@ -815,7 +815,7 @@ video {
 }
 
 .page-description {
-  font-family: 'Droid Serif',Georgia,serif;
+  font-family: "Courier New", Courier, monospace;
   font-size: 1.33333em;
   font-style: italic;
   margin-bottom: 0;
